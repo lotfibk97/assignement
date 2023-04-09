@@ -38,8 +38,3 @@ The application is built using:
 
 - To remove an item from the list, click the "Delete" button next to the item.
 
-## Code Overview
-
-The main logic for the todo list is contained in the TodoList component. This component manages the list of todos, the input value, and the logic for adding and removing todos. It also renders the Item component for each todo in the list.
-
-The Item component is responsible for rendering an individual todo item in the list. It receives the todo text, index, and a delete function as props.
